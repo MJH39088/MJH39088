@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안드로이드 개발자 허민재입니다!
 
 <!--
 **MJH39088/MJH39088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
